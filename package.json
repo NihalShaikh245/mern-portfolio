@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@primer/octicons-react": "^19.15.2",
+    "framer-motion": "^12.12.2",
+    "react-pdf": "^9.2.1"
+  }
+}
