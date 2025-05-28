@@ -186,7 +186,7 @@ export default function Home() {
               <div className="relative w-full h-full bg-gray-800 rounded-full overflow-hidden border-2 border-cyan-500/30">
                 <img 
                   src="/profile.jpg" 
-                  alt="Nihal Shaikh" 
+                  alt="#" 
                   className="w-full h-full object-cover"
                   loading="lazy"
                 />
